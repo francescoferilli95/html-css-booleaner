@@ -23,6 +23,59 @@ header{
 /* Tema Dark */
 
 body{
-    background-color: rgba(0, 0, 0, 0.863);
+    background-color: rgba(0, 0, 0, 0.89);
     color: white;
 }
+
+/* Main Section */
+
+main{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.titolo{
+    color: lightgreen;
+}
+
+.titolo1{
+    color: lightgreen;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.foto{
+    font-size: 10px;
+}
+
+ul{
+    padding-left: 0px;
+    list-style-position: inside;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td{
+    padding: 20px;
+    width: 15%;
+}
+
+.row1{
+    background-color: navy;
+    color: white;
+}
+
+.row2{
+    background-color: rgb(64, 64, 250);
+}
+
+.row3{
+    background-color: rgba(173, 216, 230, 0.534);
+}
+
