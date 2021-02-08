@@ -79,3 +79,37 @@ td{
     background-color: rgba(173, 216, 230, 0.534);
 }
 
+/* Footer Pagina */
+
+h3{
+    color: salmon;
+}
+
+
+.imgfooter{
+    background-image: url('./img/monitor.jpg');
+    background-repeat: no-repeat;
+    color: #ff9100;
+    font-size: 140%;
+    font-weight: normal;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+}
+
+
+.imgfooter1{
+    background-image: url('./img/graph.jpg');
+    background-repeat: no-repeat;
+    color: #ff9100;
+    font-size: 140%;
+    font-weight: normal;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+}
+
+
+
+
+
