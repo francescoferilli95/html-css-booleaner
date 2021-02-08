@@ -1,0 +1,28 @@
+
+/* Header Sito */
+
+header{
+    background-color: rgba(255, 50, 50, 0.781);
+    background-image: url('./img/pattern.png');
+}
+
+.logo{
+    width: 13%;
+    padding-left: 230px;
+    padding-bottom: 20px;
+    padding-top: 80px;
+}
+
+/* Posizione Container principale */
+
+.container{
+    width: 75%;
+    margin: 0px auto;
+}
+
+/* Tema Dark */
+
+body{
+    background-color: rgba(0, 0, 0, 0.863);
+    color: white;
+}
